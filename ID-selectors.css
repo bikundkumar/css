@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+}
+#one {
+    background-color: rgb(211, 27, 128);
+    color: lawngreen;
+    border: 4px solid black;
+    text-decoration: none;
+    text-align: center;
+}
+
+h1#heading {
+    color: blueviolet;
+    font-weight: bold;
+    text-align: right;
+    font-size: small;
+}
